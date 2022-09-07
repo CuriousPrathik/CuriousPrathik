@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Prathik Vishavadiya</h1>
 <h3 align="center">Just a Curious guy🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CuriousPrathik/CuriousPrathik/main/Image.png" />
+<ig align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CuriousPrathik/CuriousPrathik/main/Image.png" />
 <p align="left"> <a href="https://twitter.com/curiousprathik" target="blank"><img src="https://img.shields.io/twitter/follow/curiousprathik?logo=twitter&style=for-the-badge" alt="curiousprathik" /></a> </p>
 
 - 🔭 I’m currently working on **Movie Recommendation System**
