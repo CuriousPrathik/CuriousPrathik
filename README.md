@@ -5,6 +5,15 @@
 <ig align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CuriousPrathik/CuriousPrathik/main/Image.png" />
 <p align="left"> <a href="https://twitter.com/curiousprathik" target="blank"><img src="https://img.shields.io/twitter/follow/curiousprathik?logo=twitter&style=for-the-badge" alt="curiousprathik" /></a> </p>
 
+CIVIL Engineering graduate and a confident sports player who is curious, excited about **Data Science** and **Machine Learning**. Seeking an opportunity as a Data Science engineer.
+
+**Programming Languages**
+**PYTHON**, **SQL**
+  
+
+**Libraries and Framework**
+**FLASK**, **Numpy**, **Pandas**, **Requests**, **OpenCV**, **Selenium**, **Beutiful Soup**, **Streamlit**, ****, ****, ****
+
 - 🔭 I’m currently working on **Movie Recommendation System**
 
 - 🌱 I’m currently learning **Supervised Learning(Machine Learning)**
