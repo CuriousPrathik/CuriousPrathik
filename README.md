@@ -27,9 +27,9 @@ CIVIL Engineering graduate and a confident sports player who is curious, passion
 
 - 🌱 I’m currently learning **Supervised Learning(Machine Learning)**
 
-- 📝 I regularly write articles on **https://medium.com/@prathikvishavadiya**
+- 📝 I write articles on **https://medium.com/@prathikvishavadiya**
 
-- 📫 How to reach me **prathikvishavadiya@gmail.com**
+- 📫 Reach me at **prathikvishavadiya@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
