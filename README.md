@@ -7,8 +7,23 @@
 
 CIVIL Engineering graduate and a confident sports player who is curious, passionate about **Data Science** and **Machine Learning**. Seeking an opportunity as a Data Science engineer.
 
+**SKILLS**
 
-- 🔭 I’m currently working on **Movie Recommendation System**
+- Python, SQL, Git, OOPs.
+- Numpy, Pandas,  Matplotlib, Bokeh, OpenCV.
+- Flask, Beautiful Soup 4, Requests, Sys, Os, Tweepy, Random, Selenium.
+- Vs Code, Pycharm, Jupyter Notebook, GitHub
+
+**Courses/Achievements**
+
+- 3⭐@Hacker Rank Python
+- CS50's Introduction to Computer Science
+- CS50's Introduction to Programming with Python
+- Zero to mastery complete Python Developer @Udemy
+
+--------------------------------------------------------------
+
+- 🔭 I’m currently working on **Article Recommendation System**
 
 - 🌱 I’m currently learning **Supervised Learning(Machine Learning)**
 
