@@ -1,8 +1,3 @@
-<img src="https://raw.githubusercontent.com/CuriousPrathik/CuriousPrathik/main/banner%20-%20Edited.png" />
-
-<ig align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CuriousPrathik/CuriousPrathik/main/Image.png" />
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prathik V
 =================================================================================================================================
 
