@@ -1,16 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prathik V
 =================================================================================================================================
 
-Data Scientist
---------------
-
-“Open Source Contributor with over 1.5 years of experience, proficient in SQL, Python, Statistics, Machine Learning, Power BI, and Excel.”
-
-* 🌍  I'm based in Pune, Maharashtra, India.
-* 🖥️  See my portfolio at [PrathikV](http://prathikv.notion.site/prathikv/Portfolio-template-ac0dd7b44b7b43348a3954b4b8faa3b8)
-* ✉️  You can contact me at [prathikvishavadiya@gmail.com](mailto:prathikvishavadiya@gmail.com)
-
-### Skills
 
 
 <p align="left">
